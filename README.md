@@ -1,6 +1,6 @@
 # Java-Snake-Game
 
-<img src="assets/image.PNG" >
+<img src="ss.PNG" >
 
 
 ## Developer
